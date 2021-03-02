@@ -1,0 +1,2 @@
+<div class="problem-modal-description problem-description-markdown light"><div class="problem-modal-description-main"><div class="rendered-markdown markdown-body sample-markdown "><p>Given a positive integer <code>n</code>, find the least number of perfect square numbers (for example, <code>1, 4, 9, 16, ...</code>) which sum to n.</p>
+</div></div><div class="problem-modal-description-example"><h3><span>样例</span></h3><div class="rendered-markdown markdown-body sample-markdown "></div></div></div>
